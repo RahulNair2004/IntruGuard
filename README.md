@@ -1,8 +1,7 @@
-Here’s a **clean, professional `README.md`** for your **IntruGuard project**. You can copy-paste directly.
 
----
 
-```md
+
+```
 # 🛡️ IntruGuard – AI-Powered Intrusion Detection System
 
 IntruGuard is a machine learning-based Intrusion Detection System (IDS) designed to detect anomalous and malicious network activity using advanced data analysis and classification techniques.
