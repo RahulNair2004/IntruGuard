@@ -1,7 +1,7 @@
 
 
 
-```
+
 # 🛡️ IntruGuard – AI-Powered Intrusion Detection System
 
 IntruGuard is a machine learning-based Intrusion Detection System (IDS) designed to detect anomalous and malicious network activity using advanced data analysis and classification techniques.
@@ -156,5 +156,5 @@ Feel free to fork this repository and submit pull requests.
 This project is for educational and research purposes.
 ```
 
----
+
 
