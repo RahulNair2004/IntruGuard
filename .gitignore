@@ -1,0 +1,15 @@
+# Data (VERY IMPORTANT)
+data/
+*.csv
+*.pcap
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Node (if any)
+node_modules/
