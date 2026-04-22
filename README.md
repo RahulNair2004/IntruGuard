@@ -26,7 +26,7 @@ IntruGuard analyzes network traffic data and identifies potential cyber threats 
 
 ## 🏗️ Project Structure
 
-```
+
 
 IntruGuard/
 │
@@ -41,9 +41,7 @@ IntruGuard/
 ├── README.md
 └── .gitignore
 
-```
 
----
 
 ## 📂 Dataset
 
@@ -56,59 +54,45 @@ https://www.unb.ca/cic/datasets/ids-2017.html
 
 After downloading, place the dataset in:
 
-```
 
 data/raw/
 
-```
 
----
 
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
 
-```
 
 git clone [https://github.com/your-username/IntruGuard.git](https://github.com/your-username/IntruGuard.git)
 cd IntruGuard
 
-```
 
----
 
 ### 2️⃣ Create virtual environment
 
-```
+
 
 python -m venv venv
 venv\Scripts\activate   # Windows
 
-```
 
----
 
 ### 3️⃣ Install dependencies
 
-```
+
 
 pip install -r requirements.txt
 
-```
 
----
 
 ## ▶️ Usage
 
 Run the main pipeline:
 
-```
 
 python src/main.py
 
-```
-
----
 
 ## 🧠 Machine Learning Pipeline
 
