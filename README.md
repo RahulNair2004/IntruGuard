@@ -56,7 +56,6 @@ The project uses the **CICIDS datasets**, which contain realistic network traffi
 
 * Real-time packet capture and analysis
 * Live monitoring dashboard
-* Advanced deep learning models
 * Automated threat notifications
 * Distributed and scalable deployment
 * Integration with security monitoring systems
