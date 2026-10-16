@@ -13,7 +13,6 @@ The system is trained and evaluated on network traffic datasets from **CICIDS**,
 * Modular data processing pipeline
 * Threat detection and alerting
 * Designed for real-time intrusion detection
-* Scalable architecture for future deployment
 
 ## Tech Stack
 
